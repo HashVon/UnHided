@@ -1,0 +1,2 @@
+PROXY_URL=http://proxy:8080
+ALL_PROXY=true
